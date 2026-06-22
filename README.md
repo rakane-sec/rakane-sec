@@ -1,12 +1,6 @@
 # Rakane O.
 
-I run [ServerCrate](https://servercrate.net) - zero-knowledge encrypted Restic backup hosting on ZFS, out of Los Angeles.
-
-### What I work on day-to-day
-- **Infrastructure:** Proxmox / ZFS / nftables / dnsmasq / PowerDNS - bare metal, end-to-end self-operated
-- **Backend:** FastAPI + asyncpg + PostgreSQL with row-level security and BYPASSRLS-gated workers
-- **Payments:** Stripe + self-hosted BTCPay for on-chain Bitcoin 
-- **Operational:** custom workers, audit logging, zero-knowledge invariants enforced by construction
+Zero-knowledge encrypted Restic backup hosting on ZFS, out of Los Angeles.
 
 I write production code that runs unattended, recovers itself, and never leaks customer data - including from me.
 
