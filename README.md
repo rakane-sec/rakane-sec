@@ -1,8 +1,6 @@
 # Rakane O.
 
-Zero-knowledge encrypted Restic backup hosting on ZFS, out of Los Angeles.
-
-I write production code that runs unattended, recovers itself, and never leaks customer data - including from me.
+Zero-knowledge encrypted hosting on ZFS, out of Los Angeles.
 
 ### What I publish
 - [restic-toolkit](https://github.com/servercrate/restic-toolkit) - Restic helpers + host pubkey examples that work with any backend, not just ours
